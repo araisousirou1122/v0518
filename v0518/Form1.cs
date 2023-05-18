@@ -36,10 +36,5 @@ namespace v0518
             label2.Text = "™Ý";
 
         }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
