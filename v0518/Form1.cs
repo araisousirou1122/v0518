@@ -31,10 +31,10 @@ namespace v0518
 
         private void button5_Click(object sender, EventArgs e)
         {
-            
+
             label1.Text = "ˆ¢";
             label2.Text = "™Ý";
-            
+
         }
 
         private void button6_Click(object sender, EventArgs e)
