@@ -34,6 +34,7 @@ namespace v0518
 
             label1.Text = "ˆ¢";
             label2.Text = "™Ý";
+            
 
         }
     }
